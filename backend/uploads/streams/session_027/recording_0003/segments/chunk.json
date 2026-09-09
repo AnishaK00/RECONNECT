@@ -1,0 +1,68 @@
+{
+  "recording_id": "2026-09-09T08:52:32.406039+05:45",
+  "recording_start": "2026-09-09T08:52:32.437039+05:45",
+  "recording_end": "2026-09-09T08:52:47.286039+05:45",
+  "participants": [
+    "unenrolled_3",
+    "unenrolled_4",
+    "unenrolled_5"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:32.437039+05:45",
+      "end": "2026-09-09T08:52:33.703039+05:45",
+      "text": "It takes time."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:34.681039+05:45",
+      "end": "2026-09-09T08:52:35.677039+05:45",
+      "text": "Oh, non, non ! C'est ça, là ?"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:37.128039+05:45",
+      "end": "2026-09-09T08:52:38.698039+05:45",
+      "text": "wie er wollen."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:39.339039+05:45",
+      "end": "2026-09-09T08:52:41.448039+05:45",
+      "text": "Hello, I am Bhulira."
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:41.870039+05:45",
+      "end": "2026-09-09T08:52:44.604039+05:45",
+      "text": "Иванова Малильеву с Тузаном Рыбой."
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "unenrolled_4",
+      "start": "2026-09-09T08:52:44.604039+05:45",
+      "end": "2026-09-09T08:52:45.279039+05:45",
+      "text": ""
+    },
+    {
+      "segment_id": "seg_007",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T08:52:45.279039+05:45",
+      "end": "2026-09-09T08:52:47.286039+05:45",
+      "text": "Theautomite is called Waikapar"
+    },
+    {
+      "segment_id": "seg_008",
+      "speaker": "unenrolled_5",
+      "start": "2026-09-09T08:52:46.646039+05:45",
+      "end": "2026-09-09T08:52:47.286039+05:45",
+      "text": "Bhagavan Vajra"
+    }
+  ]
+}

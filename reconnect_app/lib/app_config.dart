@@ -4,7 +4,7 @@ class AppConfig {
   // loopback address (127.0.0.1).
   static const bool useSimulator = false;
 
-  static String get serverHost => useSimulator ? '127.0.0.1' : '192.168.0.105'; // ← your Mac's real LAN IP
+  static String get serverHost => useSimulator ? '127.0.0.1' : '192.168.43.41'; // ← your Mac's real LAN IP
 
   static String get wsAudioUrl => 'ws://$serverHost:8000/ws/audio';
   // static String get wsEnrollmentUrl => 'ws://$serverHost:8000/ws/enrollment';

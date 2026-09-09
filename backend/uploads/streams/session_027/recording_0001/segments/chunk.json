@@ -1,0 +1,59 @@
+{
+  "recording_id": "2026-09-09T08:52:08.410189+05:45",
+  "recording_start": "2026-09-09T08:52:08.660189+05:45",
+  "recording_end": "2026-09-09T08:52:25.350189+05:45",
+  "participants": [
+    "unenrolled_2"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:08.660189+05:45",
+      "end": "2026-09-09T08:52:16.035189+05:45",
+      "text": "Hello, we are going to give the presentation and we are being ready for it. We are happy, we are sad."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:16.372189+05:45",
+      "end": "2026-09-09T08:52:16.997189+05:45",
+      "text": "We are..."
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:17.587189+05:45",
+      "end": "2026-09-09T08:52:18.566189+05:45",
+      "text": "Fascus."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:19.427189+05:45",
+      "end": "2026-09-09T08:52:20.203189+05:45",
+      "text": "Human"
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:20.507189+05:45",
+      "end": "2026-09-09T08:52:21.688189+05:45",
+      "text": "koi chigar bhai madha"
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:22.346189+05:45",
+      "end": "2026-09-09T08:52:23.375189+05:45",
+      "text": "Hello, hello."
+    },
+    {
+      "segment_id": "seg_007",
+      "speaker": "unenrolled_2",
+      "start": "2026-09-09T08:52:23.831189+05:45",
+      "end": "2026-09-09T08:52:25.350189+05:45",
+      "text": "eye camera not all in"
+    }
+  ]
+}

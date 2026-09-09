@@ -1,0 +1,142 @@
+{
+  "cleaned_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/cleaned.wav",
+  "pipeline_result": {
+    "audio": {
+      "cleaned_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/cleaned.wav",
+      "original_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/raw.wav",
+      "sample_rate": 16000
+    },
+    "duration_sec": 14.88,
+    "original_filename": "raw.wav",
+    "pipeline": {
+      "diarization_model": "pyannote/speaker-diarization-community-1",
+      "processing_time_sec": 5.875,
+      "vad_model": "Silero VAD"
+    },
+    "preprocessing": {
+      "cleaned_rms": 0.06270785629749298,
+      "noise_profile_sec": 1.68,
+      "noise_profile_source": "session",
+      "noise_reduction_applied": true,
+      "noise_reduction_mode": "vad_regions",
+      "original_sample_rate": 16000,
+      "peak_normalized": 0.95,
+      "preprocessing_completed": true,
+      "raw_rms": 0.05306230112910271
+    },
+    "recording_started_at": "2026-09-09T08:52:53.619944+05:45",
+    "saved": true,
+    "segment_count": 8,
+    "segments": [
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_001.wav",
+        "end_sec": 1.297,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_001",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 0.031,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_002.wav",
+        "end_sec": 3.271,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_002",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 2.275,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_003.wav",
+        "end_sec": 6.292,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_003",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 4.722,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_004.wav",
+        "end_sec": 9.042,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_004",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 6.933,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_005.wav",
+        "end_sec": 12.198,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_005",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 9.464,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_unknown_001.wav",
+        "end_sec": 12.873,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_006",
+        "speaker_identity": "unenrolled_4",
+        "speaker_label": "SPEAKER_UNKNOWN",
+        "speaker_source": "vad_uncovered",
+        "start_sec": 12.198,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_01_006.wav",
+        "end_sec": 14.88,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_007",
+        "speaker_identity": "unenrolled_3",
+        "speaker_label": "SPEAKER_00",
+        "speaker_source": "diarization",
+        "start_sec": 12.873,
+        "vad_confidence": null
+      },
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/speaker_02_001.wav",
+        "end_sec": 14.88,
+        "match_status": "new_unenrolled",
+        "segment_id": "seg_008",
+        "speaker_identity": "unenrolled_5",
+        "speaker_label": "SPEAKER_01",
+        "speaker_source": "diarization",
+        "start_sec": 14.24,
+        "vad_confidence": null
+      }
+    ],
+    "session_id": "session_027",
+    "speaker_count": 3,
+    "stream_segment": {
+      "finalized_reason": "stream_end",
+      "main_segment_id": 3,
+      "stream_end_sec": 38.88,
+      "stream_start_sec": 24.0
+    }
+  },
+  "raw_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/raw.wav",
+  "recording_id": 3,
+  "segments_directory": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments",
+  "segments_manifest_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_027/recording_0003/segments/segments.json",
+  "session_id": "session_027",
+  "status": "completed",
+  "stream": {
+    "finalized_reason": "stream_end",
+    "main_segment_id": 3,
+    "stream_end_sec": 38.88,
+    "stream_start_sec": 24.0
+  },
+  "total_processing_time_sec": 64.05
+}

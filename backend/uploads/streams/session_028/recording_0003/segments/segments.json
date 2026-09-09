@@ -1,0 +1,37 @@
+{
+  "recording_id": "2026-09-09T09:14:56.808085+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_028/recording_0003/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.704,
+      "end_sec": 2.708,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-09T09:14:57.812085+05:45",
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_7",
+      "speaker_identity": "unenrolled_7",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 1.004,
+      "transcript": "I can't help myself, I don't know.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_028/recording_0003/segments/speaker_unknown_002.wav",
+      "duration_sec": 1.352,
+      "end_sec": 4.148,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-09T09:14:59.604085+05:45",
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_7",
+      "speaker_identity": "unenrolled_7",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 2.796,
+      "transcript": "\u0905\u091c\u0947 \u0932\u094b \u0932\u0947 \u0905\u091a\u093e\u0928\u0940",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 41.92,
+  "stream_start_sec": 36.48
+}

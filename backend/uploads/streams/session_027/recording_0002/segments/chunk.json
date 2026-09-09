@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T08:52:28.002885+05:45",
+  "recording_start": "2026-09-09T08:52:28.302885+05:45",
+  "recording_end": "2026-09-09T08:52:31.126885+05:45",
+  "participants": [
+    "unenrolled_1"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_1",
+      "start": "2026-09-09T08:52:28.302885+05:45",
+      "end": "2026-09-09T08:52:29.590885+05:45",
+      "text": "y muy bien."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_1",
+      "start": "2026-09-09T08:52:30.030885+05:45",
+      "end": "2026-09-09T08:52:31.126885+05:45",
+      "text": "camera on"
+    }
+  ]
+}

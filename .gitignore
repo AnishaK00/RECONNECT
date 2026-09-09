@@ -44,3 +44,12 @@ reconnect_app/ios/.symlinks/
 
 # Logs
 *.log
+
+# Generated model cache and session state
+backend/tmp_speechbrain/
+
+# Runtime log
+backend/data/match_logs.txt
+
+:memory:.ses
+*.ses

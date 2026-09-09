@@ -1,0 +1,67 @@
+{
+  "recording_id": "2026-09-09T09:15:04.025335+05:45",
+  "recording_start": "2026-09-09T09:15:04.427335+05:45",
+  "recording_end": "2026-09-09T09:15:16.205335+05:45",
+  "participants": [
+    "unenrolled_6",
+    "unenrolled_3"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:04.427335+05:45",
+      "end": "2026-09-09T09:15:04.933335+05:45",
+      "text": "So, let's go ahead."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:06.013335+05:45",
+      "end": "2026-09-09T09:15:08.717335+05:45",
+      "text": "Kaptırın pozisyon videoları alalım."
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:09.507335+05:45",
+      "end": "2026-09-09T09:15:11.329335+05:45",
+      "text": "Yang menurut, yang menurut, ada yang ternyata."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:10.182335+05:45",
+      "end": "2026-09-09T09:15:10.738335+05:45",
+      "text": "Let's go."
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_3",
+      "start": "2026-09-09T09:15:11.329335+05:45",
+      "end": "2026-09-09T09:15:13.805335+05:45",
+      "text": "10.0% 10.0%"
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:14.198335+05:45",
+      "end": "2026-09-09T09:15:15.328335+05:45",
+      "text": "and you have a toilet airs"
+    },
+    {
+      "segment_id": "seg_007",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:14.215335+05:45",
+      "end": "2026-09-09T09:15:15.328335+05:45",
+      "text": "And you have a twin of theirs."
+    },
+    {
+      "segment_id": "seg_008",
+      "speaker": "unenrolled_6",
+      "start": "2026-09-09T09:15:15.514335+05:45",
+      "end": "2026-09-09T09:15:16.205335+05:45",
+      "text": "Thank you very much."
+    }
+  ]
+}

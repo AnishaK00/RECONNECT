@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T09:14:56.808085+05:45",
+  "recording_start": "2026-09-09T09:14:57.812085+05:45",
+  "recording_end": "2026-09-09T09:15:00.956085+05:45",
+  "participants": [
+    "unenrolled_7"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_7",
+      "start": "2026-09-09T09:14:57.812085+05:45",
+      "end": "2026-09-09T09:14:59.516085+05:45",
+      "text": "I can't help myself, I don't know."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_7",
+      "start": "2026-09-09T09:14:59.604085+05:45",
+      "end": "2026-09-09T09:15:00.956085+05:45",
+      "text": "अजे लो ले अचानी"
+    }
+  ]
+}
