@@ -53,3 +53,7 @@ backend/data/match_logs.txt
 
 :memory:.ses
 *.ses
+
+backend/uploads/
+backend/enrollment/enrollment_audio/
+backend/data/enrollment_images/
