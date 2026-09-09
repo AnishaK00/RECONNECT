@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_014/recording_0001/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.012,
+      "end_sec": 1.12,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-08T22:29:57.626409+05:45",
+      "recording_id": 1,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_27",
+      "speaker_identity": "unenrolled_27",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.108,
+      "transcript": "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044e.",
+      "vad_confidence": null
+    }
+  ],
+  "session_id": "session_014"
+}

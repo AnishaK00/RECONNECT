@@ -1,0 +1,37 @@
+{
+  "recording_id": "2026-09-09T06:44:56.420024+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0004/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.064,
+      "end_sec": 1.332,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T06:44:56.688024+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.268,
+      "transcript": "\u0926\u0947 \u0932\u093e \u0939\u0948\u0964",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0004/segments/speaker_unknown_002.wav",
+      "duration_sec": 2.664,
+      "end_sec": 4.02,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T06:44:57.776024+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 1.356,
+      "transcript": "\u062f\u06cc\u0679\u06cc\u06a9\u0679\u0679 \u0644\u0646\u06af\u0648\u06cc\u0632 \u0622 \u0631\u06a9\u06cc\u0648\u06cc\u0627",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 42.24,
+  "stream_start_sec": 36.86
+}

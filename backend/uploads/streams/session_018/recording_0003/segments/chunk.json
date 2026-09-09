@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T00:47:07.052630+05:45",
+  "recording_start": "2026-09-09T00:47:07.320630+05:45",
+  "recording_end": "2026-09-09T00:47:11.136630+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:47:07.320630+05:45",
+      "end": "2026-09-09T00:47:11.136630+05:45",
+      "text": "I think let's go for a walk as well at night."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_012/recording_0001/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.096,
+      "end_sec": 1.236,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T22:12:53.174872+05:45",
+      "recording_id": 1,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_1",
+      "speaker_identity": "unenrolled_1",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.14,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_012/recording_0001/segments/speaker_unknown_002.wav",
+      "duration_sec": 1.128,
+      "end_sec": 3.38,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T22:12:55.286872+05:45",
+      "recording_id": 1,
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_1",
+      "speaker_identity": "unenrolled_1",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 2.252,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_012/recording_0002/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.096,
+      "end_sec": 1.396,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T22:12:58.692113+05:45",
+      "recording_id": 2,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_1",
+      "speaker_identity": "unenrolled_1",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.3,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_012/recording_0003/segments/speaker_unknown_001.wav",
+      "duration_sec": 0.904,
+      "end_sec": 1.076,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-08T22:14:12.678361+05:45",
+      "recording_id": 3,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_23",
+      "speaker_identity": "unenrolled_23",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.172,
+      "transcript": "\uc5b4",
+      "vad_confidence": null
+    }
+  ],
+  "session_id": "session_012"
+}

@@ -1,0 +1,37 @@
+{
+  "recording_id": "2026-09-09T01:37:54.089918+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_019/recording_0002/segments/speaker_unknown_001.wav",
+      "duration_sec": 4.328,
+      "end_sec": 4.564,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:37:54.325918+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "I tomorrow I will come to meet you at your house and",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_019/recording_0002/segments/speaker_unknown_002.wav",
+      "duration_sec": 2.472,
+      "end_sec": 7.54,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:37:59.157918+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 5.068,
+      "transcript": "We will go for lunch.",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 13.68,
+  "stream_start_sec": 4.78
+}

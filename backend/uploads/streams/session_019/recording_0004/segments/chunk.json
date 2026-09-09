@@ -1,0 +1,31 @@
+{
+  "recording_id": "2026-09-09T01:38:05.767605+05:45",
+  "recording_start": "2026-09-09T01:38:05.907605+05:45",
+  "recording_end": "2026-09-09T01:38:12.475605+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:38:05.907605+05:45",
+      "end": "2026-09-09T01:38:08.571605+05:45",
+      "text": "and we will go for walk as well"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:38:09.491605+05:45",
+      "end": "2026-09-09T01:38:11.163605+05:45",
+      "text": "What do you think?"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:38:11.315605+05:45",
+      "end": "2026-09-09T01:38:12.475605+05:45",
+      "text": "Bye-bye!"
+    }
+  ]
+}

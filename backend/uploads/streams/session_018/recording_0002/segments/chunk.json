@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T00:47:01.308027+05:45",
+  "recording_start": "2026-09-09T00:47:01.544027+05:45",
+  "recording_end": "2026-09-09T00:47:04.144027+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:47:01.544027+05:45",
+      "end": "2026-09-09T00:47:04.144027+05:45",
+      "text": "What do you want to do tomorrow again?"
+    }
+  ]
+}

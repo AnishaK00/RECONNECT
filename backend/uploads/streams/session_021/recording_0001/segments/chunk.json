@@ -1,0 +1,31 @@
+{
+  "recording_id": "2026-09-09T01:46:39.203454+05:45",
+  "recording_start": "2026-09-09T01:46:39.538454+05:45",
+  "recording_end": "2026-09-09T01:46:57.628454+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:46:39.538454+05:45",
+      "end": "2026-09-09T01:46:43.824454+05:45",
+      "text": "If yes, then we can go in and I will pick you up around 10am"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:46:44.482454+05:45",
+      "end": "2026-09-09T01:46:49.966454+05:45",
+      "text": "It's really not a big deal and I think you should check for here the head acts as well as"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:46:50.127454+05:45",
+      "end": "2026-09-09T01:46:57.628454+05:45",
+      "text": "other coughing problems as well and I really hope it's not in serious okay then bye bye I will come back tomorrow"
+    }
+  ]
+}

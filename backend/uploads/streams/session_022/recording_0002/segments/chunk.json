@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T05:48:06.543330+05:45",
+  "recording_start": "2026-09-09T05:48:06.811330+05:45",
+  "recording_end": "2026-09-09T05:48:08.067330+05:45",
+  "participants": [
+    "unenrolled_24"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_24",
+      "start": "2026-09-09T05:48:06.811330+05:45",
+      "end": "2026-09-09T05:48:08.067330+05:45",
+      "text": "Who is this?"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "recording_id": "2026-09-09T01:38:05.767605+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_019/recording_0004/segments/speaker_unknown_001.wav",
+      "duration_sec": 2.664,
+      "end_sec": 2.804,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:38:05.907605+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.14,
+      "transcript": "and we will go for walk as well",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_019/recording_0004/segments/speaker_unknown_002.wav",
+      "duration_sec": 1.672,
+      "end_sec": 5.396,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:38:09.491605+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 3.724,
+      "transcript": "What do you think?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_019/recording_0004/segments/speaker_unknown_003.wav",
+      "duration_sec": 1.16,
+      "end_sec": 6.708,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:38:11.315605+05:45",
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 5.548,
+      "transcript": "Bye-bye!",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 24.0,
+  "stream_start_sec": 15.92
+}

@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T06:44:24.187555+05:45",
+  "recording_start": "2026-09-09T06:44:24.391555+05:45",
+  "recording_end": "2026-09-09T06:44:27.727555+05:45",
+  "participants": [
+    "unenrolled_41"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_41",
+      "start": "2026-09-09T06:44:24.391555+05:45",
+      "end": "2026-09-09T06:44:25.743555+05:45",
+      "text": "O estávides, ¿no?"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_41",
+      "start": "2026-09-09T06:44:26.439555+05:45",
+      "end": "2026-09-09T06:44:27.727555+05:45",
+      "text": "エティギャラかよ"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "entity_id": "unknown_b8bfee15",
+    "status": "existing_unknown",
+    "unenrolled_db_id": null,
+    "observation_count": 5,
+    "best_face_image": "C:\\Users\\ASUS\\OneDrive\\Desktop\\binu\\reconnect\\backend\\data\\unknown\\unknown_b8bfee15\\best_face.jpg",
+    "label_request": false,
+    "modality": {
+        "face": true,
+        "voice": false
+    }
+}

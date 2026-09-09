@@ -1,0 +1,60 @@
+{
+  "recording_id": "2026-09-09T06:45:43.110990+05:45",
+  "recording_start": "2026-09-09T06:45:43.141990+05:45",
+  "recording_end": "2026-09-09T06:45:53.738990+05:45",
+  "participants": [
+    "anisha",
+    "unenrolled_44"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:43.141990+05:45",
+      "end": "2026-09-09T06:45:45.065990+05:45",
+      "text": "We're going to..."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_44",
+      "start": "2026-09-09T06:45:45.522990+05:45",
+      "end": "2026-09-09T06:45:46.362990+05:45",
+      "text": "봐요"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:46.820990+05:45",
+      "end": "2026-09-09T06:45:47.444990+05:45",
+      "text": "Thank you, Jen."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_44",
+      "start": "2026-09-09T06:45:47.444990+05:45",
+      "end": "2026-09-09T06:45:47.994990+05:45",
+      "text": ""
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:48.811990+05:45",
+      "end": "2026-09-09T06:45:49.790990+05:45",
+      "text": "Pinnitikaalalalalalala"
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:51.106990+05:45",
+      "end": "2026-09-09T06:45:51.815990+05:45",
+      "text": "अपाभान पान पाने है?"
+    },
+    {
+      "segment_id": "seg_007",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:51.983990+05:45",
+      "end": "2026-09-09T06:45:53.738990+05:45",
+      "text": "You're not going to answer any of my..."
+    }
+  ]
+}

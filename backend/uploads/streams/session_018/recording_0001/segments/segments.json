@@ -1,0 +1,82 @@
+{
+  "recording_id": "2026-09-09T00:46:40.500900+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0001/segments/speaker_01_001.wav",
+      "duration_sec": 1.569,
+      "end_sec": 1.988,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:46:40.919900+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 0.419,
+      "transcript": "Hello, I'm Monisa",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0001/segments/speaker_01_002.wav",
+      "duration_sec": 4.995,
+      "end_sec": 7.743,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:46:43.248900+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 2.748,
+      "transcript": "I will come to meet you tomorrow at 1 a.m. and we will go for a lunch.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0001/segments/speaker_01_003.wav",
+      "duration_sec": 1.722,
+      "end_sec": 10.19,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:46:48.968900+05:45",
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 8.468,
+      "transcript": "and then be packed by",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0001/segments/speaker_01_004.wav",
+      "duration_sec": 1.334,
+      "end_sec": 12.232,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:46:51.398900+05:45",
+      "segment_id": "seg_004",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 10.898,
+      "transcript": "9 pm",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0001/segments/speaker_01_005.wav",
+      "duration_sec": 2.43,
+      "end_sec": 15.404,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:46:53.474900+05:45",
+      "segment_id": "seg_005",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 12.974,
+      "transcript": "then let's meet tomorrow for",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 18.16,
+  "stream_start_sec": 1.1
+}

@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T06:45:08.715064+05:45",
+  "recording_start": "2026-09-09T06:45:09.271064+05:45",
+  "recording_end": "2026-09-09T06:45:09.983064+05:45",
+  "participants": [
+    "unenrolled_43"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_43",
+      "start": "2026-09-09T06:45:09.271064+05:45",
+      "end": "2026-09-09T06:45:09.983064+05:45",
+      "text": "That's good."
+    }
+  ]
+}

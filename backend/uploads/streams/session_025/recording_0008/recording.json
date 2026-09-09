@@ -1,0 +1,65 @@
+{
+  "cleaned_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/cleaned.wav",
+  "pipeline_result": {
+    "audio": {
+      "cleaned_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/cleaned.wav",
+      "original_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/raw.wav",
+      "sample_rate": 16000
+    },
+    "duration_sec": 5.06,
+    "original_filename": "raw.wav",
+    "pipeline": {
+      "diarization_model": "pyannote/speaker-diarization-community-1",
+      "processing_time_sec": 0.574,
+      "vad_model": "Silero VAD"
+    },
+    "preprocessing": {
+      "cleaned_rms": 0.09215114265680313,
+      "noise_profile_sec": 10.0,
+      "noise_profile_source": "session",
+      "noise_reduction_applied": true,
+      "noise_reduction_mode": "vad_regions",
+      "original_sample_rate": 16000,
+      "peak_normalized": 0.95,
+      "preprocessing_completed": true,
+      "raw_rms": 0.08784934878349304
+    },
+    "recording_started_at": "2026-09-09T06:45:25.124577+05:45",
+    "saved": true,
+    "segment_count": 1,
+    "segments": [
+      {
+        "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/segments/speaker_unknown_001.wav",
+        "end_sec": 3.7,
+        "match_status": "known",
+        "segment_id": "seg_001",
+        "speaker_identity": "anisha",
+        "speaker_label": "SPEAKER_UNKNOWN",
+        "speaker_source": "vad_uncovered",
+        "start_sec": 0.268,
+        "vad_confidence": null
+      }
+    ],
+    "session_id": "session_025",
+    "speaker_count": 1,
+    "stream_segment": {
+      "finalized_reason": "silence",
+      "main_segment_id": 8,
+      "stream_end_sec": 64.96,
+      "stream_start_sec": 59.9
+    }
+  },
+  "raw_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/raw.wav",
+  "recording_id": 8,
+  "segments_directory": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/segments",
+  "segments_manifest_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0008/segments/segments.json",
+  "session_id": "session_025",
+  "status": "completed",
+  "stream": {
+    "finalized_reason": "silence",
+    "main_segment_id": 8,
+    "stream_end_sec": 64.96,
+    "stream_start_sec": 59.9
+  },
+  "total_processing_time_sec": 21.063
+}

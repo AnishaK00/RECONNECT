@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T01:46:22.058966+05:45",
+  "recording_start": "2026-09-09T01:46:22.460966+05:45",
+  "recording_end": "2026-09-09T01:46:33.480966+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:46:22.460966+05:45",
+      "end": "2026-09-09T01:46:24.384966+05:45",
+      "text": "Hello Grace, how are you feeling today?"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:46:25.666966+05:45",
+      "end": "2026-09-09T01:46:33.480966+05:45",
+      "text": "I think you need to go for a checkup with the doctor at 10 a.m. tomorrow, I will create an appointment for you."
+    }
+  ]
+}

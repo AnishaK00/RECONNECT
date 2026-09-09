@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T01:37:49.949790+05:45",
+  "recording_start": "2026-09-09T01:37:50.217790+05:45",
+  "recording_end": "2026-09-09T01:37:52.049790+05:45",
+  "participants": [
+    "unenrolled_32"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_32",
+      "start": "2026-09-09T01:37:50.217790+05:45",
+      "end": "2026-09-09T01:37:52.049790+05:45",
+      "text": "Hello"
+    }
+  ]
+}

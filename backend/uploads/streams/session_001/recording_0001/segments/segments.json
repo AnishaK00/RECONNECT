@@ -1,0 +1,82 @@
+{
+  "recording_id": 1,
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_001/recording_0001/segments/speaker_01_001.wav",
+      "duration_sec": 3.285,
+      "end_sec": 3.316,
+      "match_status": "known",
+      "recorded_at": "2026-09-08T20:12:22.071925+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 0.031,
+      "transcript": "Hello. Hi.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_001/recording_0001/segments/speaker_01_002.wav",
+      "duration_sec": 1.608,
+      "end_sec": 4.948,
+      "match_status": "known",
+      "recorded_at": "2026-09-08T20:12:25.380925+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 3.34,
+      "transcript": "I'm fine.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_001/recording_0001/segments/speaker_01_003.wav",
+      "duration_sec": 2.12,
+      "end_sec": 7.54,
+      "match_status": "known",
+      "recorded_at": "2026-09-08T20:12:27.460925+05:45",
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 5.42,
+      "transcript": "Bisa kita meet tomorrow?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_001/recording_0001/segments/speaker_01_004.wav",
+      "duration_sec": 3.459,
+      "end_sec": 11.59,
+      "match_status": "known",
+      "recorded_at": "2026-09-08T20:12:30.171925+05:45",
+      "segment_id": "seg_004",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 8.131,
+      "transcript": "It will be okay, I think.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_001/recording_0001/segments/speaker_02_001.wav",
+      "duration_sec": 0.708,
+      "end_sec": 9.818,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-08T20:12:31.150925+05:45",
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_10",
+      "speaker_identity": "unenrolled_10",
+      "speaker_label": "SPEAKER_01",
+      "speaker_source": "diarization",
+      "start_sec": 9.11,
+      "transcript": "Thank you very much.",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 13.12,
+  "stream_start_sec": 0.0
+}

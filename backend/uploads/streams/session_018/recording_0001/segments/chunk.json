@@ -1,0 +1,45 @@
+{
+  "recording_id": "2026-09-09T00:46:40.500900+05:45",
+  "recording_start": "2026-09-09T00:46:40.919900+05:45",
+  "recording_end": "2026-09-09T00:46:55.904900+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:46:40.919900+05:45",
+      "end": "2026-09-09T00:46:42.488900+05:45",
+      "text": "Hello, I'm Monisa"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:46:43.248900+05:45",
+      "end": "2026-09-09T00:46:48.243900+05:45",
+      "text": "I will come to meet you tomorrow at 1 a.m. and we will go for a lunch."
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:46:48.968900+05:45",
+      "end": "2026-09-09T00:46:50.690900+05:45",
+      "text": "and then be packed by"
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:46:51.398900+05:45",
+      "end": "2026-09-09T00:46:52.732900+05:45",
+      "text": "9 pm"
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "anisha",
+      "start": "2026-09-09T00:46:53.474900+05:45",
+      "end": "2026-09-09T00:46:55.904900+05:45",
+      "text": "then let's meet tomorrow for"
+    }
+  ]
+}

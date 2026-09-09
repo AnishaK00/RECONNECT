@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T06:13:36.548286+05:45",
+  "recording_start": "2026-09-09T06:13:36.688286+05:45",
+  "recording_end": "2026-09-09T06:13:41.908286+05:45",
+  "participants": [
+    "unenrolled_40"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_40",
+      "start": "2026-09-09T06:13:36.688286+05:45",
+      "end": "2026-09-09T06:13:40.760286+05:45",
+      "text": "Hello, this is me, Beno Krasapati, talking to Anissa."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_40",
+      "start": "2026-09-09T06:13:40.944286+05:45",
+      "end": "2026-09-09T06:13:41.908286+05:45",
+      "text": "いえ、あんのに"
+    }
+  ]
+}

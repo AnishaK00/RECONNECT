@@ -1,0 +1,12 @@
+{
+    "entity_id": "unknown_99f03525",
+    "status": "new_unknown",
+    "unenrolled_db_id": 22,
+    "observation_count": 5,
+    "best_face_image": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/data/unknown/unknown_99f03525/best_face.jpg",
+    "label_request": true,
+    "modality": {
+        "face": true,
+        "voice": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "recording_id": 1,
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0001/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.16,
+      "end_sec": 1.396,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T22:33:35.926452+05:45",
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_1",
+      "speaker_identity": "unenrolled_1",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0001/segments/speaker_unknown_002.wav",
+      "duration_sec": 1.064,
+      "end_sec": 2.996,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T22:33:37.622452+05:45",
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_1",
+      "speaker_identity": "unenrolled_1",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 1.932,
+      "transcript": "What is this?",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 4.32,
+  "stream_start_sec": 0.06
+}

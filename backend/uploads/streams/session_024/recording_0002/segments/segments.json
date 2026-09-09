@@ -1,0 +1,37 @@
+{
+  "recording_id": "2026-09-09T06:13:36.548286+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_024/recording_0002/segments/speaker_unknown_001.wav",
+      "duration_sec": 4.072,
+      "end_sec": 4.212,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-09T06:13:36.688286+05:45",
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_40",
+      "speaker_identity": "unenrolled_40",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.14,
+      "transcript": "Hello, this is me, Beno Krasapati, talking to Anissa.",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_024/recording_0002/segments/speaker_unknown_002.wav",
+      "duration_sec": 0.964,
+      "end_sec": 5.36,
+      "match_status": "new_unenrolled",
+      "recorded_at": "2026-09-09T06:13:40.944286+05:45",
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_40",
+      "speaker_identity": "unenrolled_40",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 4.396,
+      "transcript": "\u3044\u3048\u3001\u3042\u3093\u306e\u306b",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 7.84,
+  "stream_start_sec": 2.48
+}

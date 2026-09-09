@@ -1,0 +1,52 @@
+{
+  "recording_id": "2026-09-09T06:48:58.849026+05:45",
+  "recording_start": "2026-09-09T06:48:59.085026+05:45",
+  "recording_end": "2026-09-09T06:49:21.003026+05:45",
+  "participants": [
+    "unenrolled_28"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:48:59.085026+05:45",
+      "end": "2026-09-09T06:49:07.115026+05:45",
+      "text": "Jose helps people to provide day activities more independently. It can include communication tools."
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:49:07.689026+05:45",
+      "end": "2026-09-09T06:49:08.414026+05:45",
+      "text": "more"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:49:08.819026+05:45",
+      "end": "2026-09-09T06:49:13.814026+05:45",
+      "text": "support systems, hearing devices and intelligent applications."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:49:14.270026+05:45",
+      "end": "2026-09-09T06:49:15.485026+05:45",
+      "text": "These technologies"
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:49:16.396026+05:45",
+      "end": "2026-09-09T06:49:17.274026+05:45",
+      "text": "can improve."
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:49:17.712026+05:45",
+      "end": "2026-09-09T06:49:21.003026+05:45",
+      "text": "Accessibility, safety and quality of life."
+    }
+  ]
+}

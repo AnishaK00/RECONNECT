@@ -1,0 +1,69 @@
+{
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_004/recording_0001/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.224,
+      "end_sec": 1.524,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T21:14:01.832455+05:45",
+      "recording_id": 1,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_13",
+      "speaker_identity": "unenrolled_13",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.3,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_004/recording_0001/segments/speaker_unknown_002.wav",
+      "duration_sec": 1.096,
+      "end_sec": 3.252,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T21:14:03.688455+05:45",
+      "recording_id": 1,
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_13",
+      "speaker_identity": "unenrolled_13",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 2.156,
+      "transcript": "Who is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_004/recording_0002/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.064,
+      "end_sec": 1.3,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T21:14:07.141783+05:45",
+      "recording_id": 2,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_13",
+      "speaker_identity": "unenrolled_13",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "What is this?",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_004/recording_0003/segments/speaker_unknown_001.wav",
+      "duration_sec": 1.16,
+      "end_sec": 1.396,
+      "match_status": "unenrolled",
+      "recorded_at": "2026-09-08T21:14:11.485902+05:45",
+      "recording_id": 3,
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_13",
+      "speaker_identity": "unenrolled_13",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "How is this?",
+      "vad_confidence": null
+    }
+  ],
+  "session_id": "session_004"
+}

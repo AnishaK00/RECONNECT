@@ -1,0 +1,26 @@
+How aggregtion is assiting to identify the moved person ?
+Instead of letting one bad final frame override everything, we use the evidence from the whole capture.
+
+For example:
+
+Frame 1 → Mom
+Frame 2 → Mom
+Frame 3 → Mom
+Frame 4 → Mom
+Frame 5 → UNKNOWN   ← bad recognition
+
+We determine:
+
+Majority identity = Mom
+
+Then we ignore Frame 5 when determining Mom's final position and use the latest reliable Mom observation:
+
+Frame 4 → Mom → right
+
+So the result is:
+
+Mom → right
+
+rather than:
+
+Unknown → right

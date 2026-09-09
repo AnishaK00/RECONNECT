@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T01:38:02.969785+05:45",
+  "recording_start": "2026-09-09T01:38:03.205785+05:45",
+  "recording_end": "2026-09-09T01:38:03.917785+05:45",
+  "participants": [
+    "unenrolled_33"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_33",
+      "start": "2026-09-09T01:38:03.205785+05:45",
+      "end": "2026-09-09T01:38:03.917785+05:45",
+      "text": "Ed."
+    }
+  ]
+}

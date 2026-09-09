@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T06:45:19.496318+05:45",
+  "recording_start": "2026-09-09T06:45:19.764318+05:45",
+  "recording_end": "2026-09-09T06:45:23.196318+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T06:45:19.764318+05:45",
+      "end": "2026-09-09T06:45:23.196318+05:45",
+      "text": "On the input format Where are the liras?"
+    }
+  ]
+}

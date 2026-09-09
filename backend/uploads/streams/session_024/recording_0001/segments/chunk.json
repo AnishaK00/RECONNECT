@@ -1,0 +1,17 @@
+{
+  "recording_id": "2026-09-09T06:13:34.279123+05:45",
+  "recording_start": "2026-09-09T06:13:34.279123+05:45",
+  "recording_end": "2026-09-09T06:13:35.419123+05:45",
+  "participants": [
+    "unenrolled_39"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_39",
+      "start": "2026-09-09T06:13:34.279123+05:45",
+      "end": "2026-09-09T06:13:35.419123+05:45",
+      "text": "Bola da ekki tu"
+    }
+  ]
+}

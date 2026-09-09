@@ -1,0 +1,52 @@
+{
+  "recording_id": "2026-09-09T01:46:39.203454+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_021/recording_0001/segments/speaker_01_001.wav",
+      "duration_sec": 4.286,
+      "end_sec": 4.621,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:46:39.538454+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 0.335,
+      "transcript": "If yes, then we can go in and I will pick you up around 10am",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_021/recording_0001/segments/speaker_01_002.wav",
+      "duration_sec": 5.484,
+      "end_sec": 10.763,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:46:44.482454+05:45",
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 5.279,
+      "transcript": "It's really not a big deal and I think you should check for here the head acts as well as",
+      "vad_confidence": null
+    },
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_021/recording_0001/segments/speaker_01_003.wav",
+      "duration_sec": 7.501,
+      "end_sec": 18.425,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T01:46:50.127454+05:45",
+      "segment_id": "seg_003",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_00",
+      "speaker_source": "diarization",
+      "start_sec": 10.924,
+      "transcript": "other coughing problems as well and I really hope it's not in serious okay then bye bye I will come back tomorrow",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 19.84,
+  "stream_start_sec": 0.0
+}

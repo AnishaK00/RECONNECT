@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T05:50:01.530808+05:45",
+  "recording_start": "2026-09-09T05:50:01.702808+05:45",
+  "recording_end": "2026-09-09T05:50:05.230808+05:45",
+  "participants": [
+    "unenrolled_35"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_35",
+      "start": "2026-09-09T05:50:01.702808+05:45",
+      "end": "2026-09-09T05:50:03.406808+05:45",
+      "text": "What is this?"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_35",
+      "start": "2026-09-09T05:50:04.102808+05:45",
+      "end": "2026-09-09T05:50:05.230808+05:45",
+      "text": "Who is this?"
+    }
+  ]
+}

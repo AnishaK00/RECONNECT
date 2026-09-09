@@ -1,0 +1,53 @@
+{
+  "cleaned_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/cleaned.wav",
+  "pipeline_result": {
+    "audio": {
+      "cleaned_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/cleaned.wav",
+      "original_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/raw.wav",
+      "sample_rate": 16000
+    },
+    "duration_sec": 1.6,
+    "original_filename": "raw.wav",
+    "pipeline": {
+      "diarization_model": "pyannote/speaker-diarization-community-1",
+      "processing_time_sec": 0.019,
+      "vad_model": "Silero VAD"
+    },
+    "preprocessing": {
+      "cleaned_rms": 0.06138777360320091,
+      "noise_profile_sec": 1.6,
+      "noise_profile_source": "recording",
+      "noise_reduction_applied": false,
+      "noise_reduction_mode": "vad_regions",
+      "original_sample_rate": 16000,
+      "peak_normalized": 0.95,
+      "preprocessing_completed": true,
+      "raw_rms": 0.0026878449134528637
+    },
+    "recording_started_at": "2026-09-08T22:33:41.249390+05:45",
+    "saved": true,
+    "segment_count": 0,
+    "segments": [],
+    "session_id": "session_017",
+    "speaker_count": 0,
+    "stream_segment": {
+      "finalized_reason": "silence",
+      "main_segment_id": 2,
+      "stream_end_sec": 5.92,
+      "stream_start_sec": 4.32
+    }
+  },
+  "raw_audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/raw.wav",
+  "recording_id": 2,
+  "segments_directory": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/segments",
+  "segments_manifest_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_017/recording_0002/segments/segments.json",
+  "session_id": "session_017",
+  "status": "completed",
+  "stream": {
+    "finalized_reason": "silence",
+    "main_segment_id": 2,
+    "stream_end_sec": 5.92,
+    "stream_start_sec": 4.32
+  },
+  "total_processing_time_sec": 0.026
+}

@@ -1,0 +1,22 @@
+{
+  "recording_id": "2026-09-09T06:45:02.629140+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_025/recording_0005/segments/speaker_unknown_001.wav",
+      "duration_sec": 4.808,
+      "end_sec": 5.044,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T06:45:02.865140+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "halta, go bod\uace8\uace8 mooi sono m4 la-soo ke yao",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 49.12,
+  "stream_start_sec": 42.78
+}

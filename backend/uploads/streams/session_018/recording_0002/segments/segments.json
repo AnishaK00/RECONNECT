@@ -1,0 +1,22 @@
+{
+  "recording_id": "2026-09-09T00:47:01.308027+05:45",
+  "segments": [
+    {
+      "audio_path": "/Users/kumpakha/Desktop/Projects/ProjectVII-1/RECONNECT/backend/uploads/streams/session_018/recording_0002/segments/speaker_unknown_001.wav",
+      "duration_sec": 2.6,
+      "end_sec": 2.836,
+      "match_status": "known",
+      "recorded_at": "2026-09-09T00:47:01.544027+05:45",
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "speaker_identity": "anisha",
+      "speaker_label": "SPEAKER_UNKNOWN",
+      "speaker_source": "vad_uncovered",
+      "start_sec": 0.236,
+      "transcript": "What do you want to do tomorrow again?",
+      "vad_confidence": null
+    }
+  ],
+  "stream_end_sec": 26.08,
+  "stream_start_sec": 21.9
+}

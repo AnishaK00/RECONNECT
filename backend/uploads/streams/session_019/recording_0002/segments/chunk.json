@@ -1,0 +1,24 @@
+{
+  "recording_id": "2026-09-09T01:37:54.089918+05:45",
+  "recording_start": "2026-09-09T01:37:54.325918+05:45",
+  "recording_end": "2026-09-09T01:38:01.629918+05:45",
+  "participants": [
+    "anisha"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:37:54.325918+05:45",
+      "end": "2026-09-09T01:37:58.653918+05:45",
+      "text": "I tomorrow I will come to meet you at your house and"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "anisha",
+      "start": "2026-09-09T01:37:59.157918+05:45",
+      "end": "2026-09-09T01:38:01.629918+05:45",
+      "text": "We will go for lunch."
+    }
+  ]
+}

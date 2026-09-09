@@ -1,0 +1,80 @@
+{
+  "recording_id": "2026-09-09T06:45:55.276900+05:45",
+  "recording_start": "2026-09-09T06:45:55.543900+05:45",
+  "recording_end": "2026-09-09T06:46:11.541900+05:45",
+  "participants": [
+    "unenrolled_28"
+  ],
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:45:55.543900+05:45",
+      "end": "2026-09-09T06:45:56.606900+05:45",
+      "text": "Pyaam sa aayu le?"
+    },
+    {
+      "segment_id": "seg_002",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:45:57.602900+05:45",
+      "end": "2026-09-09T06:45:58.243900+05:45",
+      "text": "Biharun Shah"
+    },
+    {
+      "segment_id": "seg_003",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:45:58.463900+05:45",
+      "end": "2026-09-09T06:46:00.606900+05:45",
+      "text": "It's about 12 minutes when it's here."
+    },
+    {
+      "segment_id": "seg_004",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:00.606900+05:45",
+      "end": "2026-09-09T06:46:01.216900+05:45",
+      "text": ""
+    },
+    {
+      "segment_id": "seg_005",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:01.848900+05:45",
+      "end": "2026-09-09T06:46:02.688900+05:45",
+      "text": "Bhaiya."
+    },
+    {
+      "segment_id": "seg_006",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:02.951900+05:45",
+      "end": "2026-09-09T06:46:03.795900+05:45",
+      "text": "Ciao, ciao, ciao."
+    },
+    {
+      "segment_id": "seg_007",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:04.216900+05:45",
+      "end": "2026-09-09T06:46:04.896900+05:45",
+      "text": "Okay."
+    },
+    {
+      "segment_id": "seg_008",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:05.854900+05:45",
+      "end": "2026-09-09T06:46:06.647900+05:45",
+      "text": "Stay in a rush."
+    },
+    {
+      "segment_id": "seg_009",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:07.626900+05:45",
+      "end": "2026-09-09T06:46:09.651900+05:45",
+      "text": "bhoj, bhoj, misi je ldapat he rakhon"
+    },
+    {
+      "segment_id": "seg_010",
+      "speaker": "unenrolled_28",
+      "start": "2026-09-09T06:46:10.832900+05:45",
+      "end": "2026-09-09T06:46:11.541900+05:45",
+      "text": "إلا لن"
+    }
+  ]
+}
